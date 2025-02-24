@@ -2,6 +2,10 @@
 
 This project demonstrates a 3D sphere that can animate along a curve path using WebGL. The sphere can be rendered with different lighting modes (lit or wireframe) and shading modes (flat or Phong).
 
+The project is available at https://github.com/lili-carbonn/Render_Orb_Spinning/
+
+If you would like access to the full code, you should request access. This is due to concerns of plagiarism.
+
 ## Features
 
 - Interactive 3D sphere rendering with WebGL
@@ -46,10 +50,6 @@ To deploy this project to GitHub Pages:
 4. Scroll down to the GitHub Pages section
 5. Select the main branch as the source
 6. Click Save 
-
-The project will be available at `https://github.com/lili-carbonn/Render_Orb_Spinning/`
-
-If you would like access to the full code, you should request access. This is due to concerns of plagiarism.
 
 ## Credits
 
