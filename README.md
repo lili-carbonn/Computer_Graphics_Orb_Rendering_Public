@@ -47,7 +47,7 @@ To deploy this project to GitHub Pages:
 5. Select the main branch as the source
 6. Click Save 
 
-The project will be available at `https://github.com/lili-carbonn/Computer_Graphics_Orb_Rendering_Private/`
+The project will be available at `https://github.com/lili-carbonn/Render_Orb_Spinning/`
 
 If you would like access to the full code, you should request access. This is due to concerns of plagiarism.
 
