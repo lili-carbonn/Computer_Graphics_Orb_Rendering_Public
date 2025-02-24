@@ -45,7 +45,7 @@ To deploy this project to GitHub Pages:
 3. Go to the repository settings
 4. Scroll down to the GitHub Pages section
 5. Select the main branch as the source
-6. Click Save
+6. Click Save 
 
 The project will be available at `https://github.com/lili-carbonn/Computer_Graphics_Orb_Rendering_Private/`
 
